@@ -1,0 +1,16 @@
+javascript + html = JSX
+divide in components = good management 
+react router dom = 1 page se dusre page mai 
+hooks use in react 
+install node 
+install npm 
+npx --v
+npm --v
+node --v 
+idea of react: single page site 
+node js is rumtime of 
+npm se install karte hai toh vo hmesha ha k liye insall ho jata hai 
+npx se sirf one time run k liye use hota hai 
+npx create-react-app learn
+cd learn
+npm start 
