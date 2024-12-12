@@ -14,3 +14,6 @@ npx se sirf one time run k liye use hota hai
 npx create-react-app learn
 cd learn
 npm start 
+SPA = single page application 
+
+Props:
